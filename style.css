@@ -1,0 +1,75 @@
+body{
+    margin: 0px;
+    
+}
+.back{
+    background-color: #3F5C9A;
+    height: 100PX;
+    width: 100%; 
+    position: relative;
+}
+.face{
+    color: white;
+    position: absolute;
+    font-size: 30px;
+    left: 20px  ;
+    top: -10px;
+   
+}
+.tabl{
+    color: white;
+    position: absolute;
+    top: 15%;
+    right: 100px;
+}
+.container{
+    background-color: #e2e5f0;
+    width: 100%;
+    height: 600px;
+    position: relative;
+    
+}
+img{
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    top: 180px;
+    left: 55px;
+}
+.a{
+    position: absolute;
+    top: 20px;
+    left: 30px;
+    font-size: 25px;
+    color: #3F5C9A;;
+    
+}
+.form{
+    position: absolute;
+    float: right;
+    top: 30px;
+    left: 800px;
+
+}
+.name{
+    height: 25px;
+}
+.email{
+    width: 337px;
+    height: 30px;
+    
+
+}
+.password{
+    width: 337px;
+    height: 30px;
+}
+.dark{
+    color: #3F5C9A; ;
+}
+.signup{
+    height: 40px;
+    width: 150px;
+    background-color: #5b9147;
+    color: white;
+}
